@@ -1,0 +1,112 @@
+'6Li(P,P)6Li'
+DA:
+[1]M. HALLER, M. BETZ, W. KRETSCHMER, et al. Elastic scattering of polarized protons by 6Li: (I). Optical-model analysis[J]. Nuclear Physics A, 1989, 496(2): 189-204.https://doi.org/10.1016/0375-9474(89)90171-1
+[2]M. HALLER, W. KRETSCHMER, A. RAUSCHER, et al. Elastic scattering of polarized protons by 6Li: (II). Phase-shift analysis[J]. Nuclear Physics A, 1989, 496(2): 205-223.https://doi.org/10.1016/0375-9474(89)90172-3
+[3]J.A. MCCRAY. Elastic Scattering of Protons from Li6 Nuclei[J]. Phys. Rev., 1963, 130: 2034-2042.https://doi.org/10.1103/PhysRev.130.2034
+[4]U. Fasoli, E.A. Silverstein, D. Toniolo, et al. The elastic scattering of protons by6Li in the energy range (1.3÷5.6) MeV. Nuovo Cim 34, 1832–1836 (1964). https://doi.org/10.1007/BF02750584
+[5]A.C. Scafes, C.M. Vítor, D. Pantelica, et al. Excitation function measurements of the elastic and inelastic scattering of protons in the 1600 to 5300 keV energy range for Li and F. Eur. Phys. J. A 59, 47 (2023). https://doi.org/10.1140/epja/s10050-023-00962-4
+[6]M. SKILL, R. BAUMANN, G. KEIL, et al. Differential cross section and analyzing power for elastic scattering of protons on 6Li below 2.2 MeV[J]. Nuclear Physics A, 1995, 581(1): 93-106.https://doi.org/10.1016/0375-9474(94)00422-J
+[7]F. Merchez, R. Bouchez, R.A. Hoffswell et al. L'excitation du niveau 0- de 3,56 MeV de 6Li par diffusion (p, p') de 14 à 16 MeV[J]. J. Phys. France, 1968, 29, 969-972.	https://doi.org/10.1051/jphys:019680029011-12096900
+
+
+
+
+'6Li(P,3He)4He'
+CS:
+[1]O. FIEDLER, P. KUNZE. Wirkungsquerschnitte der Kernreaktionen 6Li(p, α)3He und 7Li(p, α)4He bei kleinsten energien[J]. Nuclear Physics A, 1967, 96(3): 513-520.https://doi.org/10.1016/0375-9474(67)90601-X
+[2]W. Gemeinhardt, D. Kamke. Winkelverteilung und Wirkungsquerschnitt der Reaktion6Li(p, α)3He im Energiebereich von 50 bis 190 keV. Z. Physik 197, 58–74 (1966). https://doi.org/10.1007/BF01333086
+[3]A.J. Elwyn, R.E.Holland, C.N. Davids et al. Cross sections for the 6Li(p,3He)4He reaction at energies between 0.1 and 3.0 MeV. Phys. Rev. C, 1979, 20(6):1984-1992.https://doi.org/10.1103/PhysRevC.20.1984
+[4]A. TUMINO, C. SPITALERI, A.DI. PIETRO, et al. Validity test of the ``Trojan horse'' method applied to the 6Li(p,α)3He reaction[J]. Phys. Rev. C, 2003, 67: 065803.https://doi.org/10.1103/PhysRevC.67.065803
+DA:
+[1]H. SPINKA, T. TOMBRELLO, H. WINKLER. Low-energy cross sections for 7Li(p, α)4He and 6Li(p, α)3He[J]. Nuclear Physics A, 1971, 164(1): 1-10.http://dx.doi.org/10.1016/0375-9474(71)90839-6
+[2]N.H. Khanh, L. Goldman, R. Bouchez. Angular distribution of the 6Li(p,alpha)3He reaction in the range of energy 100-300 kev[J]. Journal de Physique, 1961, 22(5): 267.http://dx.doi.org/10.1051/jphysrad:01961002205026700
+[3]A.J. Elwyn, R.E.Holland, C.N. Davids et al. Cross sections for the 6Li(p,3He)4He reaction at energies between 0.1 and 3.0 MeV[J]. Phys. Rev. C, 1979, 20(6): 1984-1992.https://doi.org/10.1103/PhysRevC.20.1984
+[4]LIN CHIA-SHOU, HOU WAN-SHOU, WEN MIN, et al. Cross-section measurements for the 6Li(p, α)3He reaction in the proton energy range 1.0–2.6 MeV[J]. Nuclear Physics A, 1977, 275(1): 93-99.http://dx.doi.org/10.1016/0375-9474(77)90277-9
+[5]S. BASHKIN, H.T. RICHARDS. Proton Bombardment of the Lithium Isotopes[J]. Phys. Rev., 1951, 84: 1124-1129.http://dx.doi.org/10.1103/PhysRev.84.1124
+[6]C.R. Gould, R.O. Nelson, J.R. Williams et al. Cross-Section Requirements for Charged-Particle Fusion Reactors: The 6Li(p,3He)α Reaction[J]. Nuclear Science and Engineering, 1974, 55(3), 267–272.https://doi.org/10.13182/NSE74-A23453
+[7]K. SCHENK, M. MÖRIKE, G. STAUDT, et al. On the direct reaction mechanism of the 6Li(p,τ)4He reaction[J]. Physics Letters B, 1974, 52(1): 36-38.https://doi.org/10.1016/0370-2693(74)90711-4
+[8]M.F. WERBY, M.B. GREENFIELD, K.W. KEMPER, et al. Study of α+d and 3He+t Clustering in 6Li with a Two-Mode, Finite-Range Analysis of the 6Li(p,3He)4He Reaction[J]. Phys. Rev. C, 1973, 8: 106-113.https://doi.org/10.1103/PhysRevC.8.106
+[9]Bouchez, taken from EDA file. See EDA file for evaluation of 7Be system, private communication (2017). 
+POL:
+[1]C.R. BRUNE, H.J. KARWOWSKI, E.J. LUDWIG. Determination of low-energy proton polarization via the 6Li(P→, 3He)4 reaction[J]. Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 1997, 389(3): 421-429.https://doi.org/10.1016/S0168-9002(97)00340-9
+
+
+'6Li(P,P1)6Li*'
+CS:
+[1]W.D. HARRISON. Structure of 7Be: (I). The 6Li(p, p′)6Li∗ reaction[J]. Nuclear Physics A, 1967, 92(2): 253-259.https://doi.org/10.1016/0375-9474(67)90217-5
+DA:
+[1]M. Laurat. Elastic and inelastic scattering of 2 to 10 MeV protons by lithium isotopes, 1969.https://www-nds.iaea.org/EXFOR/A1508.007
+[2]M. Laurat. Elastic and inelastic scattering of 2 to 10 MeV protons by lithium isotopes, 1969.https://www-nds.iaea.org/EXFOR/A1508.006
+[3]W.D. HARRISON. Structure of 7Be: (I). The 6Li(p, p′)6Li∗ reaction[J]. Nuclear Physics A, 1967, 92(2): 253-259.https://doi.org/10.1016/0375-9474(67)90217-5
+[4]F. Merchez, R. Bouchez, R.A. Hoffswell et al. L'excitation du niveau 0- de 3,56 MeV de 6Li par diffusion (p, p') de 14 à 16 MeV[J]. J. Phys. France, 1968, 29, 969-972.	https://doi.org/10.1051/jphys:019680029011-12096900
+
+
+'6Li(P,P2)6Li*'
+CS:
+[1]W.D. HARRISON. Structure of 7Be: (II). The 6Li(p, p″)6Li∗∗ and 4He(3He, p″)6Li∗∗ reactions[J]. Nuclear Physics A, 1967, 92(2): 260-272.https://doi.org/10.1016/0375-9474(67)90218-7
+DA:
+[1]W.D. HARRISON. Structure of 7Be: (II). The 6Li(p, p″)6Li∗∗ and 4He(3He, p″)6Li∗∗ reactions[J]. Nuclear Physics A, 1967, 92(2): 260-272.https://doi.org/10.1016/0375-9474(67)90218-7
+[2]F. Merchez, R. Bouchez, R.A. Hoffswell et al. L'excitation du niveau 0- de 3,56 MeV de 6Li par diffusion (p, p') de 14 à 16 MeV[J]. J. Phys. France, 1968, 29, 969-972.	https://doi.org/10.1051/jphys:019680029011-12096900
+
+
+'6Li(P,G0)7Be'
+CS:
+[1]Z.E. SWITKOWSKI, J.C.P. HEGGIE, D.L. KENNEDY, et al. Cross section of the reaction 6Li(p, γ)7Be[J]. Nuclear Physics A, 1979, 331(1): 50-60.https://doi.org/10.1016/0375-9474(79)90300-2
+DA:
+[1]Ostojić, R., Subotić, K. & Stepančić, B. Study of the direct-radiative-capture reaction6Li(p, γ)7Be from 0.4 to 1.1 MeV. Nuov Cim A 76, 73–82 (1983). https://doi.org/10.1007/BF02902423
+
+
+'6Li(P,G1)7Be*'
+CS:
+[1]R. Bruss, O. Arkis, H. Bucka, et al. Astrophysical S-Factors for the Radiative Capture Reaction 6Li(p,γ1)7Be* at Low Energies.https://www-nds.iaea.org/EXFOR/O2246.003
+[2]Z.E. SWITKOWSKI, J.C.P. HEGGIE, D.L. KENNEDY, et al. Cross section of the reaction 6Li(p, γ)7Be[J]. Nuclear Physics A, 1979, 331(1): 50-60.https://doi.org/10.1016/0375-9474(79)90300-2
+DA:
+[1]Ostojić, R., Subotić, K. & Stepančić, B. Study of the direct-radiative-capture reaction6Li(p, γ)7Be from 0.4 to 1.1 MeV. Nuov Cim A 76, 73–82 (1983). https://doi.org/10.1007/BF02902423
+
+
+'4He(3He,3He)4He '
+DA:
+[1]P. Mohr, H. Abele, R. Zwiebel, et al. Alpha scattering and capture reactions in the A=7 system at low energies[J]. Phys. Rev. C, 1993, 48: 1420-1427.https://doi.org/10.1103/PhysRevC.48.1420
+[2]A.C.L. BARNARD, C.M. JONES, G.C. PHILLIPS. The scattering of He3 by He4[J]. Nuclear Physics, 1964, 50: 629-640.https://doi.org/10.1016/0029-5582(64)90235-4
+[3]R.J. SPIGER, T.A. TOMBRELLO. Scattering of He3 by He4 and of He4 by Tritium[J]. Phys. Rev., 1967, 163: 964-984.https://doi.org/10.1103/PhysRev.163.964
+[4]T.A. TOMBRELLO, P.D. PARKER. Scattering of He3 from He4[J]. Phys. Rev., 1963, 130: 1112-1119.https://doi.org/10.1103/PhysRev.130.1112
+[5]O.K. Gorpinich, V.I. Konfederatenko, V.V. Ostashko, et al. Elastic Scattering and Reactions in alpha-Particle Interactions with Tritium.https://www-nds.iaea.org/EXFOR/A1314.003
+[6]J.F. MARSHALL, M.E. NORDBERG, R.L. BURMAN. Pion Elastic Scattering from Carbon and Oxygen at 30 MeV[J]. Phys. Rev. C, 1970, 1: 1685-1692.https://doi.org/10.1103/PhysRevC.1.1685
+POL:
+[1]Boy(1972), taken from EDA file. See EDA file for evaluation of 7Be system, private communication (2017). 
+[2]W.D. HARRISON, A.B. WHITEHEAD. Elastic Scattering of Protons by Li6[J]. Phys. Rev., 1963, 132: 2607-2613.https://doi.org/10.1103/PhysRev.132.2607
+
+
+'4He(3He,P1)6Li* '
+DA:
+[1]R.J. SPIGER, T.A. TOMBRELLO. Scattering of He3 by He4 and of He4 by Tritium[J]. Phys. Rev., 1967, 163: 964-984.https://doi.org/10.1103/PhysRev.163.964
+
+
+'4He(3He,G0)7Be'
+CS:
+[1]J.L. OSBORNE, C.A. BARNES, R.W. KAVANAGH, et al. Low-Energy 3He(α,γ)7Be Cross-Section Measurements[J]. Phys. Rev. Lett., 1982, 48: 1664-1666.https://doi.org/10.1103/PhysRevLett.48.1664
+[2]B.S.NARA SINGH, M. HASS, Y. NIR-EL, et al. New Precision Measurement of the 3He(4He,γ)7Be Cross Section[J]. Phys. Rev. Lett., 2004, 93: 262503.https://doi.org/10.1103/PhysRevLett.93.262503
+
+
+'4He(3He,G1)7Be*'
+CS:
+[1]J.L. OSBORNE, C.A. BARNES, R.W. KAVANAGH, et al. Low-Energy 3He(α,γ)7Be Cross-Section Measurements[J]. Phys. Rev. Lett., 1982, 48: 1664-1666.https://doi.org/10.1103/PhysRevLett.48.1664
+[2]B.S.NARA SINGH, M. HASS, Y. NIR-EL, et al. New Precision Measurement of the 3He(4He,γ)7Be Cross Section[J]. Phys. Rev. Lett., 2004, 93: 262503.https://doi.org/10.1103/PhysRevLett.93.262503
+
+
+'4He(3He,P)6Li'
+DA:
+[1]R.J. SPIGER, T.A. TOMBRELLO. Scattering of He3 by He4 and of He4 by Tritium[J]. Phys. Rev., 1967, 163: 964-984.https://doi.org/10.1103/PhysRev.163.964
+
+
+
+
+
+
+
+
+
+
+
+
+
